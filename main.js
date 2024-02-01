@@ -1,6 +1,13 @@
 console.log("Hello World");
-
 console.log('Hello World');
+
+//Some Variables
+console.log('JavaScript');
+console.log(2011);
+console.log('Woohoo! I love to code! #codecademy');
+console.log(20.49)
+
+
 
 // let a=10;
 // const b=20;
@@ -94,4 +101,3 @@ console.log('Hello World');
 //     console.log(l)
 //     l++
 // } while (l<10);
-
