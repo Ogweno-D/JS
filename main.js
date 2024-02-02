@@ -1,27 +1,36 @@
 console.log("Hello World");
 console.log('Hello World');
 
-//Some Variables
 console.log('JavaScript');
 console.log(2011);
 console.log('Woohoo! I love to code! #codecademy');
 console.log(20.49)
 
 
+// VARIABLES 
+// Operators
+let a=10;
+const b=20;
+ // = ->Assignment Operator And  == equals to
+ d = a * b 
+ x= b ? d  : b
 
-// let a=10;
-// const b=20;
-// console.log(a+b);
+console.log(x)
+console.log(a+b);
 
-// let age=20;
-// console.log(age);
-// age=23;
-// console.log(age);
+let age=20;
+console.log(age);
 
-// const name= 'Dennis'
-// const ag =  20
+age=23;
+console.log(age);
 
-// console.log(name + '' + age )
+//String type Variable
+const fname= 'Dennis'
+const ag =  20
+
+console.log( fname + ' ' + age )
+
+
 
 // //Arrays in Javasript
 // fruits= [ 'oranges', 'bananas', 'mango'];
